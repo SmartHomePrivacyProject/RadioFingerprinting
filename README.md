@@ -8,9 +8,13 @@ Recent studies have shown that deep learning can obtain high accuracy in radio f
 
 This repository contains GNU Radio source code for receivers and transmitters in our testbed and source code for deep neural networks and fine-tuning. 
 
-The ```rf``` directory includes code regarding how to read I/Q data and how to generate I/Q traces for a neural network. 
+The ```GNU_radio``` directory includes source code for receivers and transmitters using HackRF Ones. 
 
-The ```GNU_radio``` directory
+The ```rf``` directory includes source code for reading I/Q data and generating I/Q traces for a neural network. 
+
+The ```fine-tuning``` directory includes source code for three convolutional neural networks and fine-tuning. 
+
+The ```complex``` directory includes source code for complex_value neural networks (no fine-tuning is supported at this point). 
 
 ## Testbed
 
