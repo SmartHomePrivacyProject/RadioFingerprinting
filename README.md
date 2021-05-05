@@ -24,9 +24,13 @@ We collected raw I/Q data before FFT, after FFT and after WiFi Frame Equalizer. 
 
 ## Dataset 
 
-Our raw I/Q dataset can be found below. 
+Our raw I/Q dataset can be found below (last modified: May 2021). 
 
 https://mailuc-my.sharepoint.com/:f:/g/personal/wang2ba_ucmail_uc_edu/EjXyRTpV0Y5Dn-OjKlxKg8gBZWyq2PIHy5OPgh3bf3g4fg?e=XavqoK
+
+Note: the above link needs to be updated every 6 months due to certain settings of OneDrive. If you find the link is expired and you cannot access the data, please feel free to email us (boyang.wang@uc.edu). We will update the link as soon as we can. Thanks!
+
+Note: the above dataset consists of raw I/Q data. To generate inputs for a neural network, you will need to use code in ```rf``` based on your parameters (e.g., the length of each I/Q trace, the number of I/Q traces per transmitter, etc.).  
 
 ## Contact
 
