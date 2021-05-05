@@ -8,6 +8,8 @@ Recent studies have shown that deep learning can obtain high accuracy in radio f
 
 ## Testbed
 
+We built a testbed with 1 receiver and 5 transmitters in order to collect I/Q data. 
+
 ## Contact
 
 If you have any questions, please feel free to contact us. 
