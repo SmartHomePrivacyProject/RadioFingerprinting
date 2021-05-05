@@ -12,7 +12,7 @@ This repository contains GNU Radio source code for receivers and transmitters in
 
 We built a testbed with 1 receiver and 5 transmitters in order to collect I/Q data. Each receiver/transmitter is a HackRF One (with ANT500 antenna) running with GNU Radio. We leverage the open-source GNU Radio code from https://github.com/bastibl/gr-ieee802-11 to establish WiFi transmissions (IEEE 802.11 a/g) with BPSK 1/2 modulation scheme between the receiver and transmitter. We captured the I/Q data at 2.45 GHz center frequency with 2MHz bandwidth and a 2MHz sampling rate. 
 
-We collected raw I/Q data after WiFi Frame Equalizer. We collected 3 transmissions from each transmitter. Each transmission lasts for 30 seconds.  We collected data from two different days.  
+We collected raw I/Q data after WiFi Frame Equalizer. We collected 3 transmissions from each transmitter. Each transmission lasts for 30 seconds.  We collected data from two different days in an indoor environment. 
 
 ## Contact
 
