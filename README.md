@@ -13,5 +13,7 @@ Recent studies have shown that deep learning can obtain high accuracy in radio f
 If you have any questions, please feel free to contact us. 
 
 Haipeng Li (li2hp@mail.uc.edu)
+
 Nirnimesh Ghose (nghose@unl.edu)
+
 Boyang Wang (boyang.wang@uc.edu)
