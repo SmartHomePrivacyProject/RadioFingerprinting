@@ -24,6 +24,10 @@ We collected raw I/Q data before FFT, after FFT and after WiFi Frame Equalizer. 
 
 ## Dataset 
 
+Our raw I/Q dataset can be found below. 
+
+https://mailuc-my.sharepoint.com/:f:/g/personal/wang2ba_ucmail_uc_edu/EjXyRTpV0Y5Dn-OjKlxKg8gBZWyq2PIHy5OPgh3bf3g4fg?e=XavqoK
+
 ## Contact
 
 If you have any questions, please feel free to contact us. 
