@@ -7,3 +7,11 @@ In this project, we study radio fingerprinting. Radio fingerprinting is a way of
 Recent studies have shown that deep learning can obtain high accuracy in radio fingerpinting. However, as wireless channels keep changing in the real world, one primary challenge is that the deep nueral networks for radio fingerprinting are not robust, where the training I/Q data are different from test I/Q data, especially in a cross-day scenario. We leverage fine-tuning to improve the robustness of dee-learning-based radio fingerprinting. 
 
 ## Testbed
+
+## Contact
+
+If you have any questions, please feel free to contact us. 
+
+Haipeng Li (li2hp@mail.uc.edu)
+Nirnimesh Ghose (nghose@unl.edu)
+Boyang Wang (boyang.wang@uc.edu)
