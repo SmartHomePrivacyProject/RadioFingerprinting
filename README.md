@@ -32,7 +32,7 @@ https://mailuc-my.sharepoint.com/:f:/g/personal/wang2ba_ucmail_uc_edu/EjXyRTpV0Y
 
 **Note:** the above dataset consists of raw I/Q data. To generate inputs for a neural network, you will need to use code in ```rf```. You can choose your own parameters (e.g., the length of each I/Q trace, the number of I/Q traces per transmitter, etc.).  
 
-In our experiments, each I/Q trace has 288 I/Q consecutive samples. We randomly select 100,000 I/Q traces per transmitter. 
+In our experiments, each I/Q trace has 288 I/Q consecutive samples. We randomly select 100,000 I/Q traces per transmitter. In other words, we have 500,000 I/Q traces overall for a neural network. We use 72% for training, 8% for validation, and 20% for testing. 
 
 ## Contact
 
