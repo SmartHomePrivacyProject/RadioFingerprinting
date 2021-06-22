@@ -15,7 +15,7 @@ def parse_args(argv):
     parser.add_argument('-v', '--verbose', action='store_true', help='')
     parser.add_argument('--D2', action='store_true', help='if set will return 2 dimension data')
     parser.add_argument('-n', '--normalize', action='store_true', help='')
-    parser.add_argument('-ds', '--dataSource', help='choose from neu/simu')
+    parser.add_argument('-ds', '--dataSource', default='neu',help='choose from neu/simu')
     parser.add_argument('-cf', '--channel_first', action='store_true', help='if set channel first otherwise channel last')
     parser.add_argument('-l', '--location',help='where the data collected')
     opts = parser.parse_args()
