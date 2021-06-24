@@ -16,6 +16,11 @@ The ```fine-tuning``` directory includes source code for three convolutional neu
 
 The ```complex_rf``` directory includes source code for complex_value neural networks (no fine-tuning is supported at this point). 
 
+
+**The dataset and code are for research purposes only. The results of this study are published in the following poster:**
+
+Haipeng Li, Chenggang Wang, Nirnimesh Ghose, Boyang Wang, "POSTER: Robust Deep-learning-based Radio Fingerprinting with Fine-Tuning," ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec’21), June, 2021.
+
 ## Testbed
 
 We built a testbed with 1 receiver and 5 transmitters in order to collect I/Q data. Each receiver/transmitter is a HackRF One (with ANT500 antenna) running with GNU Radio. We leverage the open-source GNU Radio code from https://github.com/bastibl/gr-ieee802-11 to establish WiFi transmissions (IEEE 802.11 a/g) with BPSK 1/2 modulation scheme between the receiver and transmitter. We captured the I/Q data at 2.45 GHz center frequency with 2MHz bandwidth and a 2MHz sampling rate. 
