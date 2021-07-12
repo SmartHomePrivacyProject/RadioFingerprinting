@@ -2,7 +2,11 @@
 
 **The dataset and code are for research purposes only. The results of this study are published in the following poster:**
 
-Haipeng Li, Chenggang Wang, Nirnimesh Ghose, Boyang Wang, "POSTER: Robust Deep-learning-based Radio Fingerprinting with Fine-Tuning," ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec’21), June, 2021.
+Haipeng Li, Chenggang Wang, Nirnimesh Ghose, Boyang Wang, "POSTER: Robust Deep-learning-based Radio Fingerprinting with Fine-Tuning," ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec’21), June, 2021. 
+
+The pdf of this poster can be found below (open access by ACM). 
+
+https://dl.acm.org/doi/pdf/10.1145/3448300.3468253 
 
 ## Videos
 
