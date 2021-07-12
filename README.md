@@ -1,5 +1,21 @@
 # Robust Deep-learning-based Radio Fingerprinting with Fine-Tuning
 
+**The dataset and code are for research purposes only. The results of this study are published in the following poster:**
+
+Haipeng Li, Chenggang Wang, Nirnimesh Ghose, Boyang Wang, "POSTER: Robust Deep-learning-based Radio Fingerprinting with Fine-Tuning," ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec’21), June, 2021.
+
+**Videos**
+
+Interview video from WiSec'21 
+https://ceas.mediaspace.kaltura.com/media/WiSec21_Poster_Haipeng_Interview/1_p1dho7lf 
+
+Demo Video 1 on running GNURadio code in this repository
+https://ceas.mediaspace.kaltura.com/media/WiSec21_Poster_Haipeng_Video_GNURadio/1_bvujudvo 
+
+Demo Video 2 on running machine learning code in this repository 
+https://ceas.mediaspace.kaltura.com/media/WiSec21_Poster_Haipeng_Video_ML/1_c3booanp 
+
+
 ## Overview 
 
 In this project, we study radio fingerprinting. Radio fingerprinting is a way of distinguishing a transmitter from others of the same type by analyzing raw I/Q data in wireless communications. Each transmitter has a unique fingerprint due to hardware imperfections on radio-frequency circuitry. The hardware imperfections include I/Q imbalance, phase noise, frequency offset, and sampling off-set. Specifically, given I/Q data collected on a receiver side, a receiver decides which transmitter it is in radio fingerprinting. 
@@ -16,10 +32,6 @@ The ```fine-tuning``` directory includes source code for three convolutional neu
 
 The ```complex_rf``` directory includes source code for complex_value neural networks (no fine-tuning is supported at this point). 
 
-
-**The dataset and code are for research purposes only. The results of this study are published in the following poster:**
-
-Haipeng Li, Chenggang Wang, Nirnimesh Ghose, Boyang Wang, "POSTER: Robust Deep-learning-based Radio Fingerprinting with Fine-Tuning," ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec’21), June, 2021.
 
 ## Testbed
 
