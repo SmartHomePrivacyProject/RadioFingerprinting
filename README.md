@@ -62,8 +62,8 @@ In our experiments, each I/Q trace has 288 consecutive I/Q samples. We randomly 
 
 If you have any questions, please feel free to contact us. 
 
-Haipeng Li (li2hp@mail.uc.edu)
+Haipeng Li (li2hp@mail.uc.edu), University of Cincinnati 
 
-Nirnimesh Ghose (nghose@unl.edu)
+Nirnimesh Ghose (nghose@unl.edu), University of Nebraska Lincoln 
 
-Boyang Wang (boyang.wang@uc.edu)
+Boyang Wang (boyang.wang@uc.edu), University of Cincinnati 
