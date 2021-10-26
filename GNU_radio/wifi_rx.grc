@@ -116,6 +116,30 @@ blocks:
     coordinate: [1328, 428.0]
     rotation: 0
     state: true
+- name: device_10
+  id: variable
+  parameters:
+    comment: ''
+    value: '"hackrf=88869dc3170741b"'
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [1536, 644.0]
+    rotation: 0
+    state: enabled
+- name: device_11
+  id: variable
+  parameters:
+    comment: ''
+    value: '"hackrf=88869dc380f641b"'
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [1536, 708.0]
+    rotation: 0
+    state: enabled
 - name: device_2
   id: variable
   parameters:
@@ -174,6 +198,42 @@ blocks:
     bus_source: false
     bus_structure: null
     coordinate: [1328, 764.0]
+    rotation: 0
+    state: enabled
+- name: device_7
+  id: variable
+  parameters:
+    comment: ''
+    value: '"hackrf=88869dc250b461b"'
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [1536, 436.0]
+    rotation: 0
+    state: true
+- name: device_8
+  id: variable
+  parameters:
+    comment: ''
+    value: '"hackrf=88869dc358e5b1b"'
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [1536, 500.0]
+    rotation: 0
+    state: enabled
+- name: device_9
+  id: variable
+  parameters:
+    comment: ''
+    value: '"hackrf=88869dc3937151b"'
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [1536, 580.0]
     rotation: 0
     state: enabled
 - name: freq
@@ -873,7 +933,7 @@ blocks:
     ant7: ''
     ant8: ''
     ant9: ''
-    args: device_5
+    args: device_4
     bb_gain0: bb
     bb_gain1: '20'
     bb_gain10: '20'
